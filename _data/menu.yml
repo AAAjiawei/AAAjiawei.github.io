@@ -21,9 +21,9 @@ entries:
 
   - title: Address
     entries: 
-      - title: Country: China
-      - title: Province: Heilongjiang
-      - title: City: Harbin
+      - title: Country:-China
+      - title: Province:-Heilongjiang
+      - title: City:-Harbin
   
   - title: Education
     entries:
